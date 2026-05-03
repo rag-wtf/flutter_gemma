@@ -1,0 +1,1406 @@
+{
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/pigeon.g.dart": {
+    "mtime": 1777815142.3084629,
+    "hash": "5216f5e4788e8667044af222206c616c"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/flutter_gemma.dart": {
+    "mtime": 1777815142.307953,
+    "hash": "a66a561672d8776f04dc8d3d799d270f"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/model_file_manager_interface.dart": {
+    "mtime": 1777815142.3084629,
+    "hash": "a9d668c555183e34615f2de3cf1fcd8a"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/flutter_gemma_interface.dart": {
+    "mtime": 1777815142.307953,
+    "hash": "d738b7e31a93a77f2d15001cb3708d4f"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/chat_event.dart": {
+    "mtime": 1777815142.2986379,
+    "hash": "d4f8614fbc06a5c44daa6deea18c4057"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/function_call_parser.dart": {
+    "mtime": 1777815142.2998393,
+    "hash": "570c80a9eaa61bb9074f94c4763deb67"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/model_response.dart": {
+    "mtime": 1777815142.3049548,
+    "hash": "6874e18e5031f60703a3a7dd73950386"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/image_error_handler.dart": {
+    "mtime": 1777815142.3003805,
+    "hash": "83fd4e7aec84c6282a2de39ac1bf4b4f"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/vision_encoder_validator.dart": {
+    "mtime": 1777815142.3066697,
+    "hash": "199830d6f4e3844992f2dfe9b551889c"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/multimodal_image_handler.dart": {
+    "mtime": 1777815142.3049548,
+    "hash": "8d33155b35d1a3e7717f49b41046e2fc"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/chat.dart": {
+    "mtime": 1777815142.2986379,
+    "hash": "9cc77e3be811facd4db33709362c4b49"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/model.dart": {
+    "mtime": 1777815142.3023806,
+    "hash": "8466bb4f8fdc2a562b72a93bfd7e574a"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/image_processor.dart": {
+    "mtime": 1777815142.3003805,
+    "hash": "4fc611b17b884094f49121e5555bee97"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/message.dart": {
+    "mtime": 1777815142.3023806,
+    "hash": "ddd83e9c16a5f3dabb7d0a515e24874c"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/extensions.dart": {
+    "mtime": 1777815142.2994084,
+    "hash": "8bdba1065d8321d3ef9ffbd38540030c"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/tool.dart": {
+    "mtime": 1777815142.3066697,
+    "hash": "d0a3a97b679a6d63beafb881d3a3b739"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/ffi/litert_lm_bindings.dart": {
+    "mtime": 1777815142.2998393,
+    "hash": "429e8260a2c54f74cd7c930a2f8b59de"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/ffi/ffi_inference_model.dart": {
+    "mtime": 1777815142.2994084,
+    "hash": "fe245aa199a85ab475c37722d12870ea"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/ffi/litert_lm_client.dart": {
+    "mtime": 1777815142.2998393,
+    "hash": "076e5a9c5e4f995bcabaf1695c0d4313"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/ffi/ffi_inference_model_stub.dart": {
+    "mtime": 1777815142.2998393,
+    "hash": "a3fcf48f4474939fe79203a960ef1b17"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/ffi/litert_lm_client_stub.dart": {
+    "mtime": 1777815142.2998393,
+    "hash": "15699fdcf21bc4de432761d3fb19563f"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/handlers/file_source_handler.dart": {
+    "mtime": 1777815142.3003364,
+    "hash": "11f8e828f733b2e8448b9f066a29d163"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/handlers/source_handler_registry.dart": {
+    "mtime": 1777815142.3003364,
+    "hash": "3332c751bb9c1e23131dc6f4b82252a1"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/handlers/web_bundled_source_handler.dart": {
+    "mtime": 1777815142.3003364,
+    "hash": "fa13cc6827303cd5343c83d9ae600d8f"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/handlers/web_network_source_handler.dart": {
+    "mtime": 1777815142.3003805,
+    "hash": "70b565b25a7b0bdf88584068ad101a27"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/handlers/asset_source_handler.dart": {
+    "mtime": 1777815142.2998393,
+    "hash": "9a116fc0fe5dbb4336a9ea45fbf1c8c9"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/handlers/bundled_source_handler.dart": {
+    "mtime": 1777815142.3003364,
+    "hash": "6818896a4c0613c80636227481988734"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/handlers/web_file_source_handler.dart": {
+    "mtime": 1777815142.3003805,
+    "hash": "a25a8799deaa8ab39b16eb877a9048e3"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/handlers/web_asset_source_handler.dart": {
+    "mtime": 1777815142.3003364,
+    "hash": "0b1d7528ffe29e19e244a61056565f2d"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/handlers/web_file_source_handler_stub.dart": {
+    "mtime": 1777815142.3003805,
+    "hash": "faef63ff52af53c0b4a209b7ee1e0e00"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/handlers/web_bundled_source_handler_stub.dart": {
+    "mtime": 1777815142.3003805,
+    "hash": "9e2b3258e51bbe05a021ff7ead49ad0c"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/handlers/web_asset_source_handler_stub.dart": {
+    "mtime": 1777815142.3003364,
+    "hash": "5e1e0fbc3f6080f58741beafae7e2401"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/handlers/web_network_source_handler_stub.dart": {
+    "mtime": 1777815142.3003805,
+    "hash": "a74689f7b22f0319cf2671634652cc8e"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/handlers/network_source_handler.dart": {
+    "mtime": 1777815142.3003364,
+    "hash": "2118079d4d95cee43026d852f0ea8311"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/handlers/source_handler.dart": {
+    "mtime": 1777815142.3003364,
+    "hash": "257fd2afb9205b13be984536d53b7234"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/di/service_registry.dart": {
+    "mtime": 1777815142.2991805,
+    "hash": "f473b1d437fdfb44b6ea67b75c79d9e5"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/di/platform/web_service_factory.dart": {
+    "mtime": 1777815142.2991805,
+    "hash": "9b6105720d79d86bc62bceca01d556ba"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/di/platform/mobile_service_factory.dart": {
+    "mtime": 1777815142.299113,
+    "hash": "c100ca2229a7b774a3889efcca248c9e"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/utils/file_name_utils.dart": {
+    "mtime": 1777815142.3066697,
+    "hash": "dc5d46ef42261c162bece448d193cc56"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/domain/web_storage_mode.dart": {
+    "mtime": 1777815142.2994084,
+    "hash": "4022aae854c9ae99d6a0f824a5d94d9b"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/domain/download_error.dart": {
+    "mtime": 1777815142.2994084,
+    "hash": "0d89492aac2383b3be8fe0e261c51495"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/domain/model_source.dart": {
+    "mtime": 1777815142.2994084,
+    "hash": "88fe53ed3972506ee6cbf863bdfcea04"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/domain/download_exception.dart": {
+    "mtime": 1777815142.2994084,
+    "hash": "48c951976c61b288d9ae1007a2147d85"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/domain/cache_metadata.dart": {
+    "mtime": 1777815142.2991805,
+    "hash": "c4ebd050993e2f40b00a0ffafb9257cb"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/migration/legacy_preferences_migrator.dart": {
+    "mtime": 1777815142.3023806,
+    "hash": "452a65b3668b8cc0cf8fa17db13d1b83"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/infrastructure/flutter_asset_loader.dart": {
+    "mtime": 1777815142.301489,
+    "hash": "1e65cf8b317d7b9ddc71cd8e4e0feac7"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/infrastructure/hnsw_vector_index.dart": {
+    "mtime": 1777815142.301489,
+    "hash": "ae3d4484eabb4f4da6ee403a9a49c6f2"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/infrastructure/web_opfs_interop_stub.dart": {
+    "mtime": 1777815142.301489,
+    "hash": "5952c8078ccae143f07f5b8f9809eba4"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/infrastructure/web_cache_service.dart": {
+    "mtime": 1777815142.301489,
+    "hash": "aa88209c177e9914b8f4e230c437175c"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/infrastructure/dart_vector_store_repository_stub.dart": {
+    "mtime": 1777815142.301489,
+    "hash": "d07a508dcccdd41cf4bf6b64d5b72016"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/infrastructure/web_cache_service_stub.dart": {
+    "mtime": 1777815142.301489,
+    "hash": "6379ef007a5dba08d96042816e1a229e"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/infrastructure/web_vector_store_repository.dart": {
+    "mtime": 1777815142.3023806,
+    "hash": "15edb476c752fb3f91f1fedfbd758d35"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/infrastructure/shared_preferences_protected_registry.dart": {
+    "mtime": 1777815142.301489,
+    "hash": "eed51d73214d2069a79f9fc2dbea2433"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/infrastructure/web_opfs_interop.dart": {
+    "mtime": 1777815142.301489,
+    "hash": "81ac33f0237c7abc826cf72605610ce4"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/infrastructure/web_js_interop_stub.dart": {
+    "mtime": 1777815142.301489,
+    "hash": "5358d0b9f1a5ad9548d525ea94a92357"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/infrastructure/url_utils.dart": {
+    "mtime": 1777815142.301489,
+    "hash": "f76aff648e33c2f53d930f43b652c7ac"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/infrastructure/web_file_system_service.dart": {
+    "mtime": 1777815142.301489,
+    "hash": "b8a67be04d4ff5bce72505f6b2a59627"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/infrastructure/web_cache_interop.dart": {
+    "mtime": 1777815142.301489,
+    "hash": "b6498679809bbab2a3af0a7ba3339667"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/infrastructure/web_download_service.dart": {
+    "mtime": 1777815142.301489,
+    "hash": "1435ea4348853b198fea322f304c0f72"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/infrastructure/shared_preferences_model_repository.dart": {
+    "mtime": 1777815142.301489,
+    "hash": "3c7ae262bd817ddcef24dbab45aea636"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/infrastructure/web_opfs_service.dart": {
+    "mtime": 1777815142.301489,
+    "hash": "f3f3f22ed93540d3977a8dfad9f71ffb"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/infrastructure/web_js_interop.dart": {
+    "mtime": 1777815142.301489,
+    "hash": "d5e08ee7581113b02026aa0cdd8709ea"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/infrastructure/web_cache_interop_stub.dart": {
+    "mtime": 1777815142.301489,
+    "hash": "e636a1614c8bc4ac406facf984309420"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/infrastructure/platform_file_system_service.dart": {
+    "mtime": 1777815142.301489,
+    "hash": "3bb1fdaacd34b8a61bf1ebc1110c5657"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/infrastructure/web_download_service_stub.dart": {
+    "mtime": 1777815142.301489,
+    "hash": "105191bf51327bbe0894c9e299c3b2ba"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/infrastructure/blob_url_manager.dart": {
+    "mtime": 1777815142.301489,
+    "hash": "57941c220d189f1e24e2d6f8d360b515"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/infrastructure/dart_vector_store_repository.dart": {
+    "mtime": 1777815142.301489,
+    "hash": "6befec9706571539bfb616b7f4478ac8"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/infrastructure/web_vector_store_repository_stub.dart": {
+    "mtime": 1777815142.3023806,
+    "hash": "157e61a3c98e65947fd815a73fe78a30"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/infrastructure/flutter_asset_loader_stub.dart": {
+    "mtime": 1777815142.301489,
+    "hash": "9cb735bfb5bd014ee3447b350271b189"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/infrastructure/background_downloader_service.dart": {
+    "mtime": 1777815142.3003805,
+    "hash": "fcfc0848772e04a2f487253d46f45d7f"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/infrastructure/in_memory_model_repository.dart": {
+    "mtime": 1777815142.301489,
+    "hash": "85fffcbc4c0f55811709de7626285d83"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/infrastructure/blob_url_manager_stub.dart": {
+    "mtime": 1777815142.301489,
+    "hash": "bc19dd369b099149744e347963725adf"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/parsing/qwen_function_call_format.dart": {
+    "mtime": 1777815142.3054788,
+    "hash": "6b0ca755f3b3f76ac1a8285c8a909937"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/parsing/json_parsing_utils.dart": {
+    "mtime": 1777815142.3054788,
+    "hash": "2f80d21731e9df01e66307b84a04f6e8"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/parsing/sdk_passthrough_function_call_format.dart": {
+    "mtime": 1777815142.3054788,
+    "hash": "d358a478895894d57163f46335948e02"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/parsing/json_function_call_format.dart": {
+    "mtime": 1777815142.3054788,
+    "hash": "e25ccd13ead509e9b2d01a0367a3f30f"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/parsing/deepseek_function_call_format.dart": {
+    "mtime": 1777815142.3049548,
+    "hash": "51e0751dbb81aaa01d841318982eb08a"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/parsing/function_gemma_format.dart": {
+    "mtime": 1777815142.3054788,
+    "hash": "d1a4b5796cd1fd4992f53e8bf99f58b1"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/parsing/function_call_format_factory.dart": {
+    "mtime": 1777815142.3054788,
+    "hash": "31873be676cbf3eb6453dcfd1f5b7c4d"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/parsing/llama_function_call_format.dart": {
+    "mtime": 1777815142.3054788,
+    "hash": "3578de425d7d77f6822c94365bc2fc24"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/parsing/phi_function_call_format.dart": {
+    "mtime": 1777815142.3054788,
+    "hash": "a210bb6b39d07e9920968b8bf9063132"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/parsing/sdk_response_parser.dart": {
+    "mtime": 1777815142.3054788,
+    "hash": "c191221fd885bdc6ab7977616df118d6"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/parsing/function_call_format.dart": {
+    "mtime": 1777815142.3054788,
+    "hash": "14447d174a39871bb5eaaa37c195c554"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/model_management/managers/web_model_manager.dart": {
+    "mtime": 1777815142.3041637,
+    "hash": "aa678c2c87e74572773b259f66aac38e"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/model_management/managers/mobile_model_manager.dart": {
+    "mtime": 1777815142.3035474,
+    "hash": "5f46fe3f1187d52223903816c408adae"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/model_management/exceptions/model_exceptions.dart": {
+    "mtime": 1777815142.3035474,
+    "hash": "6ecc97ea74754525eacf95052b4336e4"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/model_management/types/storage_info.dart": {
+    "mtime": 1777815142.3045459,
+    "hash": "cdbc03329d60160c2b4983a441d41ffc"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/model_management/types/model_spec.dart": {
+    "mtime": 1777815142.3045459,
+    "hash": "cf90704c7009de4e4b7aeb503101cbb7"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/model_management/types/embedding_model_spec.dart": {
+    "mtime": 1777815142.3041637,
+    "hash": "a43652df70b305937fd66a63e99ae0eb"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/model_management/types/inference_model_spec.dart": {
+    "mtime": 1777815142.3045459,
+    "hash": "11170f5f6ca7c5b5c866c0ab5d6e7162"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/model_management/utils/resume_checker.dart": {
+    "mtime": 1777815142.3049548,
+    "hash": "f877bd07d19bf787e5c20a645eef4819"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/model_management/utils/file_system_manager.dart": {
+    "mtime": 1777815142.3045459,
+    "hash": "7c6474c7fa443e8655f23792abfe5f23"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/model_management/constants/preferences_keys.dart": {
+    "mtime": 1777815142.3035474,
+    "hash": "6bfdc10f2b5d82810e5db1890afd2d9a"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/api/inference_installation_builder.dart": {
+    "mtime": 1777815142.2986379,
+    "hash": "e2c90a3896c0cb3c66638f4a4835831c"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/api/flutter_gemma.dart": {
+    "mtime": 1777815142.2986379,
+    "hash": "493c5656b358a7cfe4f7a00f6ad6e488"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/api/embedding_installation_builder.dart": {
+    "mtime": 1777815142.2985318,
+    "hash": "75b5f0b2eec8f684738874cb3e9edd1a"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/services/asset_loader.dart": {
+    "mtime": 1777815142.3054788,
+    "hash": "e082734b9d22da2b8561d3a8fac4fb41"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/services/model_repository.dart": {
+    "mtime": 1777815142.3066697,
+    "hash": "49a756ad15158b5e20a1244f70914c5d"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/services/download_service.dart": {
+    "mtime": 1777815142.3066697,
+    "hash": "c161cb2d855b6984a5d2e04c7d8f9e65"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/services/vector_store_repository.dart": {
+    "mtime": 1777815142.3066697,
+    "hash": "b47ab130a6c7be5c9689b00916097843"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/services/protected_files_registry.dart": {
+    "mtime": 1777815142.3066697,
+    "hash": "bbe7149fd4a38d3bdac9eba22b3fb575"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/services/file_system_service.dart": {
+    "mtime": 1777815142.3066697,
+    "hash": "e1ea6f46e77071e5e953755f5841e78c"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/mobile/smart_downloader.dart": {
+    "mtime": 1777815142.3084629,
+    "hash": "fc3c15170795d2f7c68f0cafa9ee00ea"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/mobile/flutter_gemma_mobile_embedding_model.dart": {
+    "mtime": 1777815142.3084629,
+    "hash": "9fde9201f3e55c0a17daad9bba3b12a1"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/mobile/flutter_gemma_mobile.dart": {
+    "mtime": 1777815142.307953,
+    "hash": "ec672afd7a2cc332d70d5328719b1c38"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/mobile/flutter_gemma_mobile_inference_model.dart": {
+    "mtime": 1777815142.3084629,
+    "hash": "c12e854cdf4ecfa7343579e7791be6c3"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/web/llm_inference_web.dart": {
+    "mtime": 1777815142.309257,
+    "hash": "5e4e54440ce673ed27cf4ed360db1920"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/web/litert_web_embeddings.dart": {
+    "mtime": 1777815142.309257,
+    "hash": "d5330984aa562cae755e91b1c3dcc308"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/web/flutter_gemma_web.dart": {
+    "mtime": 1777815142.3084629,
+    "hash": "3f0540ae8bd14fdcf98efc98d8e6ff27"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/web/flutter_gemma_web_embedding_model.dart": {
+    "mtime": 1777815142.309257,
+    "hash": "68258092ca5f3af13d78383a1e6a6ad0"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/web/vector_store_web.dart": {
+    "mtime": 1777815142.309257,
+    "hash": "969ffa070b812bb002690a409c8c56c5"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/rag/embedding_models.dart": {
+    "mtime": 1777815142.3084629,
+    "hash": "394668b9056f1680b990a98dc32ff26f"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/desktop/flutter_gemma_desktop_stub.dart": {
+    "mtime": 1777815142.3075557,
+    "hash": "a5c2519db781c4d092585d7f307c39a6"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/desktop/desktop_embedding_model.dart": {
+    "mtime": 1777815142.3066697,
+    "hash": "d141ef5e8a671ece59a38089d721e6cf"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/desktop/desktop_inference_model.dart": {
+    "mtime": 1777815142.3075557,
+    "hash": "9637b88796abda5087e15c6531cd0f58"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/desktop/flutter_gemma_desktop.dart": {
+    "mtime": 1777815142.3075557,
+    "hash": "b4a0cfc0a8e6fcb653764026d99c8e65"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/desktop/tflite/tflite_interpreter.dart": {
+    "mtime": 1777815142.307953,
+    "hash": "69682ce901899429b2657cac33253ac0"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/desktop/tflite/tflite_bindings.dart": {
+    "mtime": 1777815142.3075557,
+    "hash": "eaa005aee0a8dc1d8d27d1fb6c22d73e"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/test/error_handling_test.dart": {
+    "mtime": 1777815144.4384518,
+    "hash": "73804f4863952a82992e9368c4ec17e0"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/test/function_gemma_parser_test.dart": {
+    "mtime": 1777815144.4384518,
+    "hash": "961df9bf8b730927eb2cb8158d83532a"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/test/desktop_vision_params_test.dart": {
+    "mtime": 1777815144.4384518,
+    "hash": "f2bade0aeccccd66f9fcc3a046818b27"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/test/vector_store_parity_test.dart": {
+    "mtime": 1777815144.4394517,
+    "hash": "5b2ce6c4cb1d602d022e8903496005a2"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/test/bundled_models_test.dart": {
+    "mtime": 1777815144.425564,
+    "hash": "8b3efa16c04c9c5fed5c300253af6496"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/test/gemma4_passthrough_format_test.dart": {
+    "mtime": 1777815144.4384518,
+    "hash": "242f6e38de95ee95ea677d0689f0dd4f"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/test/model_uninstall_test.dart": {
+    "mtime": 1777815144.4394517,
+    "hash": "b8eac4209794a7f9bcd0795aa7c36946"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/test/error_retry_test.dart": {
+    "mtime": 1777815144.4384518,
+    "hash": "49640ce4cf906e818587e4c7529035a8"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/test/dart_vector_store_repository_test.dart": {
+    "mtime": 1777815144.4384518,
+    "hash": "541d927fa3ad9938af755d4310c34df9"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/test/pigeon_support_audio_test.dart": {
+    "mtime": 1777815144.4394517,
+    "hash": "3be1dc8ed6b45af0a17807ae64b987df"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/test/image_corruption_fix_test.dart": {
+    "mtime": 1777815144.4394517,
+    "hash": "a67dd77c19aaa1fc60b0aedcdb2da9ab"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/test/gemma4_tools_serialization_test.dart": {
+    "mtime": 1777815144.4384518,
+    "hash": "aae3c9d3d573ddecbb4cfe755a989fbe"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/test/asset_path_parsing_test.dart": {
+    "mtime": 1777815144.424451,
+    "hash": "0dcda553f1ef5d70f1619a88ec7b25d7"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/test/hnsw_index_test.dart": {
+    "mtime": 1777815144.4384518,
+    "hash": "f70d9ecd2c6df5d1eb5ab93ad9eab820"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/test/model_switching_test.dart": {
+    "mtime": 1777815144.4394517,
+    "hash": "b7c38fe73384966acda4b896ebe5f26c"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/test/gemma4_extract_tool_calls_test.dart": {
+    "mtime": 1777815144.4384518,
+    "hash": "636e47707cf6db1c7a3f242bfbb5f6da"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/test/flutter_gemma_method_channel_test.dart": {
+    "mtime": 1777815144.4384518,
+    "hash": "fb4ae1dac1372c4d601f18f6263a3b2c"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/test/core/system_instruction_test.dart": {
+    "mtime": 1777815144.4383702,
+    "hash": "930178a46997307bf1da8c20a8c18a22"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/test/core/model_source_test.dart": {
+    "mtime": 1777815144.4383702,
+    "hash": "70dc6e6078f29ea4eea676504434b523"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/test/core/gemma4_thinking_test.dart": {
+    "mtime": 1777815144.4258473,
+    "hash": "0bf422001233b64a2674afd2cf2db093"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/test/core/chat_prompt_test.dart": {
+    "mtime": 1777815144.425564,
+    "hash": "f50b3ef894a65140395712f9ddfca053"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/test/core/litertlm_file_type_test.dart": {
+    "mtime": 1777815144.4381251,
+    "hash": "6d95afb5e96097df282f13aa26caba3c"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/test/core/handlers/source_handler_test.dart": {
+    "mtime": 1777815144.4374516,
+    "hash": "948b7754466ceacc006186023a9bd314"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/test/core/di/service_registry_test.dart": {
+    "mtime": 1777815144.4258473,
+    "hash": "753920518c4d8e28c873f9d4bc4c8413"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/test/core/utils/file_name_utils_test.dart": {
+    "mtime": 1777815144.4384518,
+    "hash": "cfcaafb851133de5aeca5f2083ec9a65"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/test/core/infrastructure/background_downloader_service_test.dart": {
+    "mtime": 1777815144.4374516,
+    "hash": "f29c9f8a666c16e13e65a23a10148465"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/test/core/infrastructure/web_cache_service_test.dart": {
+    "mtime": 1777815144.4381251,
+    "hash": "5b44c2f8e6e00cdf01e40aa774fdf0b8"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/test/core/model_management/types/model_spec_test.dart": {
+    "mtime": 1777815144.4383702,
+    "hash": "69f7f3be10899b0610cddf1342821c2c"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/test/core/model_management/utils/file_system_manager_test.dart": {
+    "mtime": 1777815144.4383702,
+    "hash": "e2282b56a7894d509cfa6ac562c69e83"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/test/mobile/model_creation_failure_test.dart": {
+    "mtime": 1777815144.4394517,
+    "hash": "7606c819b14cc79c861fa33cdaaa12a6"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/web/sqlite_vector_store.js": {
+    "mtime": 1777815144.447452,
+    "hash": "c7c6d204dd4e021babc0186beb65446c"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/web/litert_embeddings.js": {
+    "mtime": 1777815144.4412725,
+    "hash": "9de203c5319fe5ff26c29d633c0c4246"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/web/cache_api.js": {
+    "mtime": 1777815144.4407322,
+    "hash": "50a305e22d72e92bad42e9841442433a"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/web/litert.js": {
+    "mtime": 1777815144.4412725,
+    "hash": "8ecac1995d223eaf3e18b618ff36f1df"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/web/sentencepiece.js": {
+    "mtime": 1777815144.447452,
+    "hash": "f87e20efae8c5170071f55306265a7ce"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/web/tensorflow.js": {
+    "mtime": 1777815144.451452,
+    "hash": "cd8040fff8b189cf35bf7065f533b421"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/web/sqlite_vector_store_worker.js": {
+    "mtime": 1777815144.447452,
+    "hash": "493c8800af863f000ecd99b68799d831"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/web/opfs_helper.js": {
+    "mtime": 1777815144.4412725,
+    "hash": "cd4913ea20fd8a9f8309aa3f034ae562"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/web/rag/sqlite_vector_store.js": {
+    "mtime": 1777815144.4414518,
+    "hash": "be215fcf75345ee2d9197964514a6298"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/web/rag/test_worker.js": {
+    "mtime": 1777815144.4424517,
+    "hash": "ae5b1e5fb66577ef927ebabaac2da7d3"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/web/rag/litert_embeddings_api.js": {
+    "mtime": 1777815144.4414518,
+    "hash": "d83f474cd6dc43fd260423c0c8745158"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/web/rag/sqlite_vector_store_worker.js": {
+    "mtime": 1777815144.4424517,
+    "hash": "935c2ce555f59b15d541896e808110e7"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/web/rag/vite.config.js": {
+    "mtime": 1777815144.4424517,
+    "hash": "6c05cf9d62f1a49f0e08f835a7f271d1"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/web/rag/vite.config.worker.js": {
+    "mtime": 1777815144.4424517,
+    "hash": "bc20fcad43cafb3b4cc02abc11e236e0"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/integration_test/inference_test_helpers.dart": {
+    "mtime": 1777815142.2623794,
+    "hash": "1f2ac9dc55ab99bcbc9f0872b0da46db"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/integration_test/desktop_thinking_test.dart": {
+    "mtime": 1777815142.2613792,
+    "hash": "af902e2cd8fb413788d3c54376af978c"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/integration_test/ffi_test.dart": {
+    "mtime": 1777815142.2613792,
+    "hash": "2704981d13e94366ed096bb4a773bfb5"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/integration_test/embedding_rag_diagnosis_test.dart": {
+    "mtime": 1777815142.2613792,
+    "hash": "c6d363213d1cce9c2281103a35669d21"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/integration_test/inference_multimodal_test.dart": {
+    "mtime": 1777815142.2623794,
+    "hash": "56dc16d394dcbe3e847e8be943f5e369"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/integration_test/tool_calling_test.dart": {
+    "mtime": 1777815142.2633793,
+    "hash": "9a7bc790e580f190839defb058dd1966"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/integration_test/sequential_litertlm_test.dart": {
+    "mtime": 1777815142.2633793,
+    "hash": "8d22b77b0331a1a1a6d93b8b060dca36"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/integration_test/thinking_mode_test.dart": {
+    "mtime": 1777815142.2633793,
+    "hash": "077810eb838b1bea18b3040aa74b5d86"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/integration_test/system_instruction_test.dart": {
+    "mtime": 1777815142.2633793,
+    "hash": "037eda6e177970ce9e7b7ba61792fec2"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/integration_test/ios_gpu_seed_test.dart": {
+    "mtime": 1777815142.2623794,
+    "hash": "aecc86fa7e5374aa66ee5752402cbdf0"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/integration_test/raw_ffi_test.dart": {
+    "mtime": 1777815142.2633793,
+    "hash": "49125648ad36246e17c14a421be3a70f"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/integration_test/vector_store_test.dart": {
+    "mtime": 1777815142.2633793,
+    "hash": "5a77f61061db4ab4ea104e7d6317fdd9"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/integration_test/desktop_embedding_test.dart": {
+    "mtime": 1777815142.261282,
+    "hash": "89e8e1c800dd54ad62ba1dce3d2e3008"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/integration_test/gemma4_raw_output_capture.dart": {
+    "mtime": 1777815142.2613792,
+    "hash": "cbccec97cf9e13b5092391754be0aec6"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/integration_test/device_hello_test.dart": {
+    "mtime": 1777815142.2613792,
+    "hash": "3cd2f382c6d38082a8590a551d060b6b"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/integration_test/desktop_full_test.dart": {
+    "mtime": 1777815142.2613792,
+    "hash": "55dfab8b0530e0183966550b7dc14cc3"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/integration_test/desktop_thinking_qwen3_test.dart": {
+    "mtime": 1777815142.2613792,
+    "hash": "3a112265d2698809d3d52eef8bedd144"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/integration_test/sequential_gemma4_test.dart": {
+    "mtime": 1777815142.2633793,
+    "hash": "df8d5125a85ed0b5285d3936fcfa2222"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/integration_test/desktop_chat_test.dart": {
+    "mtime": 1777815142.261282,
+    "hash": "f7ebb46de79540334a8ce1b75a1e3b30"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/integration_test/minimal_test.dart": {
+    "mtime": 1777815142.2623794,
+    "hash": "3b47b43216c8f43f299e13d23404a853"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/integration_test/ios_device_test.dart": {
+    "mtime": 1777815142.2623794,
+    "hash": "bbd2d103445710e9db84bf2a4b4325e8"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/integration_test/inference_dual_engine_test.dart": {
+    "mtime": 1777815142.2623794,
+    "hash": "06991c3f0ef6abba6c69c375b2f2f57f"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/integration_test/gemma4_function_calling_test.dart": {
+    "mtime": 1777815142.2613792,
+    "hash": "0db9cb4056f3016c9c58b557b2e5ef6e"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/integration_test/android_g4_vision.dart": {
+    "mtime": 1777815142.261282,
+    "hash": "2538c68889a23f5683800bc82045f3fb"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/integration_test/inference_smoke_test.dart": {
+    "mtime": 1777815142.2623794,
+    "hash": "801a69aa59653e326c1f7b467b1a82d1"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/integration_test/android_full_test.dart": {
+    "mtime": 1777815142.2603793,
+    "hash": "3b61a79f5710d0c4e725a83e544e0807"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/integration_test/embedding_vector_comparison_test.dart": {
+    "mtime": 1777815142.2613792,
+    "hash": "7171a722503d5416c4d33de189a3b1f4"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/integration_test/plugin_integration_test.dart": {
+    "mtime": 1777815142.2623794,
+    "hash": "86e2a994391f586816c8b37cf79671ad"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/integration_test/inference_lifecycle_test.dart": {
+    "mtime": 1777815142.2623794,
+    "hash": "e3491f6cab680dc92216c6db471490e2"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/integration_test/embedding_score_comparison_test.dart": {
+    "mtime": 1777815142.2613792,
+    "hash": "01a5014424917f322180404bffd35513"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/integration_test/inference_cancel_test.dart": {
+    "mtime": 1777815142.2623794,
+    "hash": "d176a05c986ed3099c6e6dafff0fea04"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/integration_test/embedding_stability_test.dart": {
+    "mtime": 1777815142.2613792,
+    "hash": "37bfc7cf7b596b13e412fe25092b735d"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/integration_test/ios_gemma4_engine_create_timing.dart": {
+    "mtime": 1777815142.2623794,
+    "hash": "e5469681f07c832831c6dcc6b686cda5"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/integration_test/inference_download_test.dart": {
+    "mtime": 1777815142.2623794,
+    "hash": "e0a38cd76cc209804498a60267f08932"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/integration_test/smoke_test.dart": {
+    "mtime": 1777815142.2633793,
+    "hash": "06d1416edc785ba85f348ea54960c590"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/integration_test/desktop_crash_regression_test.dart": {
+    "mtime": 1777815142.261282,
+    "hash": "64b4e9b92b7199b9d39b900a0a010d18"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/integration_test/regression_bugs_test.dart": {
+    "mtime": 1777815142.2633793,
+    "hash": "91f1ba5e595780e4f7ef06d7447e8461"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/integration_test/benchmark_comparison_test.dart": {
+    "mtime": 1777815142.261282,
+    "hash": "79fdb274e8aaf637a9a16c011557ea43"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/integration_test/download_reliability_test.dart": {
+    "mtime": 1777815142.2613792,
+    "hash": "b6e05406ff45672e3d3478e721305333"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/integration_test/ios_engine_test.dart": {
+    "mtime": 1777815142.2623794,
+    "hash": "0fbf94614dc95709aa9ddcecc9ab4d9e"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/integration_test/embedding_dual_prefix_test.dart": {
+    "mtime": 1777815142.2613792,
+    "hash": "2c7f5ef8472814f89da34b804cd188fe"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/integration_test/desktop_thinking_all_models_test.dart": {
+    "mtime": 1777815142.2613792,
+    "hash": "3aa7bbd5bdb621c194455e345a7ac1fd"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/integration_test/ios_litertlm_test.dart": {
+    "mtime": 1777815142.2623794,
+    "hash": "39363d687d3b1a67f05000c07327e5ff"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/integration_test/ios_01_gpu_gemma3_1b.dart": {
+    "mtime": 1777815142.2623794,
+    "hash": "ec6b8e502511acbf698b9d46f6380f1f"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/integration_test/kotlin_vision_test.dart": {
+    "mtime": 1777815142.2623794,
+    "hash": "bf3834238a7311884ae8b0322579b911"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/integration_test/android_vision_debug.dart": {
+    "mtime": 1777815142.261282,
+    "hash": "c428bce6b82627ef1e6ddd494132beb3"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/integration_test/gemma4_test.dart": {
+    "mtime": 1777815142.2623794,
+    "hash": "a65a7c59b856753e5cf38193c274bfd3"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/integration_test/ios_mediapipe_033_test.dart": {
+    "mtime": 1777815142.2623794,
+    "hash": "8589f17eaeaee9ae33fb4765d25a7590"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/integration_test/embedding_dual_model_test.dart": {
+    "mtime": 1777815142.2613792,
+    "hash": "3a1db8cf8c4281978e5be7b1284a6be6"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/integration_test/litertlm_ffi_test.dart": {
+    "mtime": 1777815142.2623794,
+    "hash": "3d0af9a800e5a9d2ab2b80caea78e6ce"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/lib/chat_widget.dart": {
+    "mtime": 1777815142.267011,
+    "hash": "0c6fe64e4c1b88c883683d9d5a665a00"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/lib/rag_demo_screen.dart": {
+    "mtime": 1777815142.26909,
+    "hash": "81e78f9d571bbf827b6a5c16ed3ae8ad"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/lib/chat_message.dart": {
+    "mtime": 1777815142.267011,
+    "hash": "36ce622c0e7d93baaad175860016e55e"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/lib/cosine_similarity_screen.dart": {
+    "mtime": 1777815142.267011,
+    "hash": "b5514e0d5131a80c125e572c7d72c788"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/lib/model_selection_screen.dart": {
+    "mtime": 1777815142.2673795,
+    "hash": "a4550b3b63ffa2ea44ac0400f5454f55"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/lib/chat_input_field.dart": {
+    "mtime": 1777815142.2666135,
+    "hash": "5085ff3d00dc6ae0e887143023074790"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/lib/chat_screen.dart": {
+    "mtime": 1777815142.267011,
+    "hash": "fe882283b7d7d598f3d9f9b8271eddc6"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/lib/main_integration_tests.dart": {
+    "mtime": 1777815142.2673795,
+    "hash": "1a5c88a62c8ef2417b6a2098f07b0fa1"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/lib/home_screen.dart": {
+    "mtime": 1777815142.2673795,
+    "hash": "25cd61a244769cd12d26b34af637d0f8"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/lib/universal_download_screen.dart": {
+    "mtime": 1777815142.2694316,
+    "hash": "e60627f31155a70d2b37b9b751f86742"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/lib/thinking_widget.dart": {
+    "mtime": 1777815142.2694316,
+    "hash": "29946ffd9d1466ed38964a6a0144c6f4"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/lib/integration_test_screen.dart": {
+    "mtime": 1777815142.2673795,
+    "hash": "2539e42ddb2a6976d8cfeca5bb3c6d6e"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/lib/main.dart": {
+    "mtime": 1777815142.2673795,
+    "hash": "ebc70ca32368b6cbd30287a924a6cf4f"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/lib/model_download_screen.dart": {
+    "mtime": 1777815142.2673795,
+    "hash": "8795802976118b80fd8e95c2a024d2f1"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/lib/gemma_input_field.dart": {
+    "mtime": 1777815142.267011,
+    "hash": "adf5554a8cd763b1591a45c3d377bfac"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/lib/vector_store_test_screen.dart": {
+    "mtime": 1777815142.269787,
+    "hash": "8c0b4c34e515536e2d10162789922f9d"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/lib/loading_widget.dart": {
+    "mtime": 1777815142.2673795,
+    "hash": "482505d55fc70c546c4c325f26ffb858"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/lib/embedding_models_screen.dart": {
+    "mtime": 1777815142.267011,
+    "hash": "607f5d2aeef74c4825fc55bebb55969d"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/lib/embedding_test_screen.dart": {
+    "mtime": 1777815142.267011,
+    "hash": "3aab58e909397ab6977971388859c902"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/lib/utils/platform_io_web.dart": {
+    "mtime": 1777815142.269787,
+    "hash": "c54dbd3865b7ea07587b7f9fa0baf4d7"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/lib/utils/test_preferences.dart": {
+    "mtime": 1777815142.269787,
+    "hash": "046c06404535075cfbce2466d359ce31"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/lib/utils/platform_io.dart": {
+    "mtime": 1777815142.269787,
+    "hash": "b8d4082422719748c209515920a911fd"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/lib/utils/platform_io_helper.dart": {
+    "mtime": 1777815142.269787,
+    "hash": "1bc10e5994942b2b7964a9be3339fe0a"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/lib/utils/audio_converter.dart": {
+    "mtime": 1777815142.2694316,
+    "hash": "8f615221c4146e9a54ec61f944f767e8"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/lib/widgets/universal_model_card.dart": {
+    "mtime": 1777815142.269787,
+    "hash": "b2fbd34f0cd14ba9bc4a116957cd12f9"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/lib/constants/app_keys.dart": {
+    "mtime": 1777815142.267011,
+    "hash": "a6d410d27566f04bc2f6dfeaefcb50bc"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/lib/models/base_model.dart": {
+    "mtime": 1777815142.2673795,
+    "hash": "04dcd7db882be7962613f2bcdf127f55"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/lib/models/embedding_model.dart": {
+    "mtime": 1777815142.2687075,
+    "hash": "5b6d7cb8258a1e235fba344996295a56"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/lib/models/model.dart": {
+    "mtime": 1777815142.2687075,
+    "hash": "7bd1da4ac1651d0cd69da7bb2cfa0c9e"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/lib/rag_demo/rag_demo_data.dart": {
+    "mtime": 1777815142.2687075,
+    "hash": "caf9b9982334dcecbc23292144baf2ec"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/lib/rag_demo/widgets/sample_documents_screen.dart": {
+    "mtime": 1777815142.26909,
+    "hash": "f909fb832366e9a4c3436d6d96e127e2"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/lib/rag_demo/widgets/result_card.dart": {
+    "mtime": 1777815142.26909,
+    "hash": "3cd805c7af281ccc3ced42f6da904996"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/lib/rag_demo/widgets/status_card.dart": {
+    "mtime": 1777815142.26909,
+    "hash": "49cad18a88d53d94b01886e0723d1ad1"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/lib/rag_demo/widgets/search_section.dart": {
+    "mtime": 1777815142.26909,
+    "hash": "d96e86cd8b83efa147d1ff3ee05a61b8"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/lib/rag_demo/widgets/knowledge_base_section.dart": {
+    "mtime": 1777815142.2689688,
+    "hash": "2e4fd2606efd5e3c687d11182af41845"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/lib/services/gemma_service.dart": {
+    "mtime": 1777815142.2694316,
+    "hash": "7410427bc52742a98f0a34efd586d0a4"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/lib/services/embedding_download_service.dart": {
+    "mtime": 1777815142.2694316,
+    "hash": "3638974ac052a6816dbbe4b4044c9f42"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/lib/services/model_download_service.dart": {
+    "mtime": 1777815142.2694316,
+    "hash": "adbbea5ceb3fead6328f0dc089c80c3e"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/test/desktop_chat_test.dart": {
+    "mtime": 1777815142.2735226,
+    "hash": "1658a75067b3348af5b75aaf9bfc72e3"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/ios/RunnerUITests/RunnerUITests.m": {
+    "mtime": 1777815142.2666135,
+    "hash": "eeee748d12e5066bdbe6b2f3f3d3778b"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/ios/Runner/AppDelegate.swift": {
+    "mtime": 1777815142.265585,
+    "hash": "229f47750404a88548b577ba29930ff3"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/ios/Runner/Runner-Bridging-Header.h": {
+    "mtime": 1777815142.2666135,
+    "hash": "e07862ac930ed4d8479185d52c6cc66d"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/windows/runner/win32_window.h": {
+    "mtime": 1777815142.2966757,
+    "hash": "5a4cf051798d7e6931ee0405a4523c8f"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/windows/runner/flutter_window.cpp": {
+    "mtime": 1777815142.2966757,
+    "hash": "9b92b95a9eecce25e3e9d356688d0cb6"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/windows/runner/resource.h": {
+    "mtime": 1777815142.2966757,
+    "hash": "c8f809a4f8d3f2f625e358fd90f72fee"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/windows/runner/utils.cpp": {
+    "mtime": 1777815142.2966757,
+    "hash": "9b5697b276c8ad67a02ec12ad2c09851"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/windows/runner/main.cpp": {
+    "mtime": 1777815142.2966757,
+    "hash": "b52cc2e5726e140ee7c1bf98791cc7fa"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/windows/runner/win32_window.cpp": {
+    "mtime": 1777815142.2966757,
+    "hash": "928e86a2be27eca688669dce6c9177d9"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/windows/runner/flutter_window.h": {
+    "mtime": 1777815142.2966757,
+    "hash": "79bea736711adda00c49419a39a4a0b4"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/windows/runner/utils.h": {
+    "mtime": 1777815142.2966757,
+    "hash": "c741fb9cddbf3a62f4688b6cca39ddcc"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/windows/flutter/generated_plugin_registrant.cc": {
+    "mtime": 1777815142.2964828,
+    "hash": "56e818e0e58941b4a36164e5aa0929b8"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/windows/flutter/generated_plugin_registrant.h": {
+    "mtime": 1777815142.2964828,
+    "hash": "0ea33875f9f8e118f9c2ded03e2e2835"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/linux/runner/my_application.cc": {
+    "mtime": 1777815142.2706714,
+    "hash": "417a1c724b0f0536b2f355a25f314cf9"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/linux/runner/my_application.h": {
+    "mtime": 1777815142.2706714,
+    "hash": "326a85d68857137fdfe8698a0c071baf"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/linux/runner/main.cc": {
+    "mtime": 1777815142.2706714,
+    "hash": "0643b8609698e96b3abd63c210361a87"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/linux/flutter/generated_plugin_registrant.cc": {
+    "mtime": 1777815142.2704897,
+    "hash": "dc44c5ee3d1048306580ac2500535014"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/linux/flutter/generated_plugin_registrant.h": {
+    "mtime": 1777815142.2704897,
+    "hash": "d295462c9da9f7fef22dc86c34492318"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/macos/Flutter/GeneratedPluginRegistrant.swift": {
+    "mtime": 1777815142.2709587,
+    "hash": "89f9e8b9f2dc339cb812bda52599e110"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/macos/RunnerTests/RunnerTests.swift": {
+    "mtime": 1777815142.2735226,
+    "hash": "97d3a20fd20a063c192e886d1822b4a8"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/macos/Runner/MainFlutterWindow.swift": {
+    "mtime": 1777815142.2735226,
+    "hash": "4a747b1f256d62a2bbb79bd976891eb5"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/macos/Runner/AppDelegate.swift": {
+    "mtime": 1777815142.2714703,
+    "hash": "2a7411ae3e7c6715525b94b6f8d2e80b"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/web/sqlite_vector_store.js": {
+    "mtime": 1777815142.2923803,
+    "hash": "c7c6d204dd4e021babc0186beb65446c"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/web/litert_embeddings.js": {
+    "mtime": 1777815142.2881222,
+    "hash": "9de203c5319fe5ff26c29d633c0c4246"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/web/litert.js": {
+    "mtime": 1777815142.2881222,
+    "hash": "8ecac1995d223eaf3e18b618ff36f1df"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/web/sentencepiece.js": {
+    "mtime": 1777815142.2913802,
+    "hash": "f87e20efae8c5170071f55306265a7ce"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/web/tensorflow.js": {
+    "mtime": 1777815142.2953804,
+    "hash": "cd8040fff8b189cf35bf7065f533b421"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/web/sqlite_vector_store_worker.js": {
+    "mtime": 1777815142.2923803,
+    "hash": "493c8800af863f000ecd99b68799d831"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/web/opfs_helper.js": {
+    "mtime": 1777815142.2881222,
+    "hash": "cd4913ea20fd8a9f8309aa3f034ae562"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/web/assets/sqlite_vector_store_worker-CfG9aZgP.js": {
+    "mtime": 1777815142.2853801,
+    "hash": "8f07f56a04aa01c350fe312d930dbe5f"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/web/assets/sqlite_vector_store_worker-gXbe1onm.js": {
+    "mtime": 1777815142.2873802,
+    "hash": "938b8e2ebcacead8ee54deb433001706"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/android/settings.gradle.kts": {
+    "mtime": 1777815142.2559206,
+    "hash": "59390dcb7910062fff790a0d3d5e3578"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/android/build.gradle.kts": {
+    "mtime": 1777815142.2549617,
+    "hash": "699579880a795350891cafc998a3ec79"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/android/app/build.gradle.kts": {
+    "mtime": 1777815142.25411,
+    "hash": "e72f42d5fc2f991de52cd4dae09644c9"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/android/app/src/main/kotlin/dev/flutterberlin/flutter_gemma_example/MainActivity.kt": {
+    "mtime": 1777815142.2547033,
+    "hash": "21977e6fce9236272c71215eda04b1a5"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/android/app/src/main/kotlin/dev/flutterberlin/example/MainActivity.kt": {
+    "mtime": 1777815142.2547033,
+    "hash": "cd83de3b2e69130ef14c187c3b54fc5b"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/android/app/src/androidTest/java/dev/flutterberlin/flutter_gemma_example/MainActivityTest.java": {
+    "mtime": 1777815142.2543535,
+    "hash": "c1cca2fd52ff4bcb7f915c70a9187513"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/test_driver/integration_test.dart": {
+    "mtime": 1777815142.2735226,
+    "hash": "606d1d466e070d1ad90c6dbb4525a8f6"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/lib/core/README.md": {
+    "mtime": 1777815142.2984207,
+    "hash": "5ab783515b971eb835381441c1204961"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/web/rag/OPFSCOOP_ANALYSIS.md": {
+    "mtime": 1777815144.4414518,
+    "hash": "3a26d9a492058e9b838461199df31f0e"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/web/rag/ANALYSIS_INDEX.md": {
+    "mtime": 1777815144.4414518,
+    "hash": "35fb7cb65f9e55aef61cbc0dca10ea30"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/web/rag/VFS_COMPARISON.md": {
+    "mtime": 1777815144.4414518,
+    "hash": "779e7033b1ef7fd9a134236bc1085680"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/web/rag/QUICK_FIX.md": {
+    "mtime": 1777815144.4414518,
+    "hash": "d5a47ff23f345bfd824287cca90f20d8"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/web/rag/SOLUTION_SUMMARY.md": {
+    "mtime": 1777815144.4414518,
+    "hash": "5f921f7168f040d9ea12ed1d3491d64a"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/web/rag/README.md": {
+    "mtime": 1777815144.4414518,
+    "hash": "e32e487b71bf56ff4056ffd79e4c5bd0"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/pubspec.yaml": {
+    "mtime": 1777815142.2735226,
+    "hash": "581d52879ac1f9c6ec0efa37e1072bd9"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/analysis_options.yaml": {
+    "mtime": 1777815142.2538872,
+    "hash": "7da3e6a0eb6834853c2e3822993af026"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/README.md": {
+    "mtime": 1777815142.2538872,
+    "hash": "e6c1c9c66670ec67906e44f7591f03da"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md": {
+    "mtime": 1777815142.2664073,
+    "hash": "e175e436acacf76c814d83532d0b662c"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/windows/CMakeLists.txt": {
+    "mtime": 1777815142.2963004,
+    "hash": "cec158f04d18e77744928c8f6558d781"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/windows/runner/CMakeLists.txt": {
+    "mtime": 1777815142.2964828,
+    "hash": "e99a99b5cc82a168fc557eb23b8d5a96"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/windows/flutter/CMakeLists.txt": {
+    "mtime": 1777815142.2963004,
+    "hash": "0c500410e3259a9a053797dc1c28070e"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/linux/CMakeLists.txt": {
+    "mtime": 1777815142.2703025,
+    "hash": "c6f699d2f8d6b8bb1c01f087cc84fd48"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/linux/runner/CMakeLists.txt": {
+    "mtime": 1777815142.2704897,
+    "hash": "6d75431dc21756981b53a7494c836311"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/linux/flutter/CMakeLists.txt": {
+    "mtime": 1777815142.2703025,
+    "hash": "46690fb8ffaf7d227d8bc4713f31140d"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/web/index.html": {
+    "mtime": 1777815142.2881222,
+    "hash": "4d22bc6e371662686564b5b1299f9451"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/web/test_vectorstore.html": {
+    "mtime": 1777815142.2953804,
+    "hash": "00bc376abcc09b6f0ed7ba5f49227ffb"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png": {
+    "mtime": 1777815142.2657912,
+    "hash": "665cb5e3c5729da6d639d26eff47a503"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png": {
+    "mtime": 1777815142.2657912,
+    "hash": "1b3b1538136316263c7092951e923e9d"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png": {
+    "mtime": 1777815142.2657912,
+    "hash": "643842917530acf4c5159ae851b0baf2"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png": {
+    "mtime": 1777815142.2657912,
+    "hash": "2247a840b6ee72b8a069208af170e5b1"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png": {
+    "mtime": 1777815142.2657912,
+    "hash": "a2f8558fb1d42514111fbbb19fb67314"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png": {
+    "mtime": 1777815142.2657912,
+    "hash": "2247a840b6ee72b8a069208af170e5b1"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png": {
+    "mtime": 1777815142.2657912,
+    "hash": "be8887071dd7ec39cb754d236aa9584f"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png": {
+    "mtime": 1777815142.2657912,
+    "hash": "043119ef4faa026ff82bd03f241e5338"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png": {
+    "mtime": 1777815142.2657912,
+    "hash": "5b3c0902200ce596e9848f22e1f0fe0e"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png": {
+    "mtime": 1777815142.2657912,
+    "hash": "36c0d7a7132bdde18898ffdfcfcdc4d2"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png": {
+    "mtime": 1777815142.2657912,
+    "hash": "e419d22a37bc40ba185aca1acb6d4ac6"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png": {
+    "mtime": 1777815142.2657912,
+    "hash": "5b3c0902200ce596e9848f22e1f0fe0e"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png": {
+    "mtime": 1777815142.2657912,
+    "hash": "c785f8932297af4acd5f5ccb7630f01c"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png": {
+    "mtime": 1777815142.2657912,
+    "hash": "8245359312aea1b0d2412f79a07b0ca5"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png": {
+    "mtime": 1777815142.2657912,
+    "hash": "2b1452c4c1bda6177b4fbbb832df217f"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png": {
+    "mtime": 1777815142.2664073,
+    "hash": "978c1bee49d7ad5fc1a4d81099b13e18"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png": {
+    "mtime": 1777815142.2664073,
+    "hash": "978c1bee49d7ad5fc1a4d81099b13e18"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png": {
+    "mtime": 1777815142.2664073,
+    "hash": "978c1bee49d7ad5fc1a4d81099b13e18"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png": {
+    "mtime": 1777815142.2716753,
+    "hash": "dfe2c93d1536ae02f085cc63faa3430e"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_16.png": {
+    "mtime": 1777815142.2716753,
+    "hash": "8bf511604bc6ed0a6aeb380c5113fdcf"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_512.png": {
+    "mtime": 1777815142.2723796,
+    "hash": "0ad44039155424738917502c69667699"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_64.png": {
+    "mtime": 1777815142.2723796,
+    "hash": "04e7b6ef05346c70b663ca1d97de3ad5"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_32.png": {
+    "mtime": 1777815142.2716753,
+    "hash": "8e0ae58e362a6636bdfccbc04da2c58c"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_1024.png": {
+    "mtime": 1777815142.2716753,
+    "hash": "c9becc9105f8cabce934d20c7bfb6aac"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_128.png": {
+    "mtime": 1777815142.2716753,
+    "hash": "3ded30823804caaa5ccc944067c54a36"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/web/favicon.png": {
+    "mtime": 1777815142.2873802,
+    "hash": "5dcef449791fa27946b3d35ad8803796"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/web/icons/Icon-maskable-192.png": {
+    "mtime": 1777815142.2881222,
+    "hash": "c457ef57daa1d16f64b27b786ec2ea3c"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/web/icons/Icon-192.png": {
+    "mtime": 1777815142.2873802,
+    "hash": "ac9a721a12bbc803b44f645561ecb1e1"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/web/icons/Icon-maskable-512.png": {
+    "mtime": 1777815142.2881222,
+    "hash": "301a7604d45b3e739efc881eb04896ea"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/web/icons/Icon-512.png": {
+    "mtime": 1777815142.2881222,
+    "hash": "96e752610906ba2a93c65f8abe1645f1"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/assets/deepseek.png": {
+    "mtime": 1777815142.257379,
+    "hash": "58b08b6ae773cd55928f09dc31ad5cc2"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/assets/background_1.png": {
+    "mtime": 1777815142.256573,
+    "hash": "9fdfd5720c234ad8e25c440af28e98ef"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/assets/gemma.png": {
+    "mtime": 1777815142.257379,
+    "hash": "fb871c5e745452ba68a12d5b93c7de6a"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/assets/deepseek_background.png": {
+    "mtime": 1777815142.257379,
+    "hash": "0f005e44960dff6125628971a84b0041"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/assets/gemma3.png": {
+    "mtime": 1777815142.2593791,
+    "hash": "193d6b3e5526937b6f559203d0f721fe"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/assets/background.png": {
+    "mtime": 1777815142.2559206,
+    "hash": "0b35e49b0cad987672673cf741a425a1"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/assets/test/test_image.jpg": {
+    "mtime": 1777815142.2603793,
+    "hash": "d0b5f73538fc210a1485c0944afc9a1a"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/android/app/src/main/res/mipmap-mdpi/ic_launcher.png": {
+    "mtime": 1777815142.2549617,
+    "hash": "6270344430679711b81476e29878caa7"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png": {
+    "mtime": 1777815142.2549617,
+    "hash": "a0a8db5985280b3679d99a820ae2db79"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png": {
+    "mtime": 1777815142.2549617,
+    "hash": "57838d52c318faff743130c3fcfae0c6"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png": {
+    "mtime": 1777815142.2549617,
+    "hash": "afe1b655b9f32da22f9a4301bb8e6ba8"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/android/app/src/main/res/mipmap-hdpi/ic_launcher.png": {
+    "mtime": 1777815142.2549617,
+    "hash": "13e9c72ec37fac220397aa819fa1ef2d"
+  },
+  "/home/limcheekin/dev/ws/flutter/flutter_gemma/example/assets/test/test_audio.wav": {
+    "mtime": 1777815142.2603793,
+    "hash": "8dd0a0000ee69dfb531368e9bc502899"
+  }
+}
